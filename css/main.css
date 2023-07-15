@@ -618,10 +618,6 @@ footer {
     margin-bottom: 0;
 }
 
-.title-produto-desc {
-    font-size: 16px !important;
-}
-
 .modal-full .price-produto {
     color: var(--color-primary);
     font-size: 24px;
@@ -822,3 +818,4 @@ select.form-control {
     border-radius: 50px;
     margin-bottom: 10px;
 }
+

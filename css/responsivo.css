@@ -208,4 +208,8 @@
     .container-cep .btn {
         top: 35px;
     }
+
+    .title-produto-desc {
+        font-size: 16px !important;
+    }
 }
