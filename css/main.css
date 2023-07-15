@@ -544,7 +544,7 @@ footer {
 }
 
 .m-body::-webkit-scrollbar-thumb {
-    background: var(--color-white);
+    background: var(--color-primary);
 }
 
 .m-body::-webkit-scrollbar-track {
